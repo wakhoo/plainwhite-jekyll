@@ -56,3 +56,6 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+plainwhite:
+  disqus_shortname: ggirugi
