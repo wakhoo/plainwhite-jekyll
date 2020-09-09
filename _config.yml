@@ -63,20 +63,4 @@ plainwhite:
   show_excerpts: true
   
   
-plainwhite:
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
-      
-plainwhite:
-  tagline: |
-  First Line. 
 
-  Second Line. 
-
-  Third Line.
-  
-plainwhite:
-  search: true
