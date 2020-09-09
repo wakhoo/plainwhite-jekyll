@@ -19,7 +19,7 @@ plainwhite:
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets\logo.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/logo.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
 
   # generate social links in footer
@@ -47,15 +47,15 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
 
 plainwhite:
   disqus_shortname: ggirugi
