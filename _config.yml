@@ -62,14 +62,15 @@ plainwhite:
   
   show_excerpts: true
   
-  plainwhite:
+  
+plainwhite:
   navigation:
     - title: My Work
       url: "/my-work"
     - title: Resume
       url: "/resume"
       
-  plainwhite:
+plainwhite:
   tagline: |
   First Line. 
 
@@ -77,5 +78,5 @@ plainwhite:
 
   Third Line.
   
-  plainwhite:
+plainwhite:
   search: true
